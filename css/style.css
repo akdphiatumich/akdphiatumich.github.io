@@ -22,7 +22,7 @@ body {
   overflow-x: hidden;
 }
 
-body.fh5co-offcanvas {
+body.offcanvas {
   overflow: hidden;
 }
 
@@ -553,8 +553,12 @@ figure {
   }
 }
 
-.fh5co-section-gray {
+.section-gray {
   background: #F6FAF7;
+}
+
+.section-lightpurple {
+  background: #ffccff;
 }
 
 .heading-section {
@@ -604,24 +608,6 @@ figure {
 
 #fh5co-countdown {
   background: purple;
-}
-
-#fh5co-countdown .countdown {
-  margin-bottom: 0;
-  font-size: 80px;
-  color: #fff;
-}
-
-#fh5co-countdown .countdown span {
-  margin: 0 30px;
-  display: inline-block;
-  font-family: "Montez", cursive;
-}
-
-#fh5co-countdown .countdown small {
-  display: block;
-  font-size: 16px;
-  font-family: "Open Sans", Arial, sans-serif;
 }
 
 .couple-wrap {
