@@ -1,13 +1,10 @@
 
 TITLE: 
-Nuptial - 100% Fully Responsive Free HTML5 Bootstrap Template
+alpha Kappa Delta Phi at the University of Michigan
+
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Made by Serena Chan and based off the Nuptial Bootstrap Template by FREEHTML5.co
 
 
 CREDITS:
