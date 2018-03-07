@@ -748,7 +748,7 @@ figure {
   color: rgba(255, 255, 255, 0.7);
 }
 
-.groom-men img {
+.sisters img {
   margin-bottom: 20px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -756,7 +756,7 @@ figure {
   border-radius: 50%;
 }
 
-.groom-men h3 {
+.sisters h3 {
   font-family: "Open Sans", Arial, sans-serif;
   font-size: 18px;
 }
