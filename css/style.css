@@ -1209,9 +1209,9 @@ figure {
   }
 }
 
-.nopadding {
-  padding: 0 !important;
-  margin: 0 !important;
+.paddingeboard {
+  padding: 5px !important;
+  margin: 5px !important;
 }
 
 .padding {
