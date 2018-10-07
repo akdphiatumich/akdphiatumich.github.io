@@ -1209,14 +1209,19 @@ figure {
   }
 }
 
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
 .paddingeboard {
-  padding: 5px !important;
-  margin: 5px !important;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
 }
 
 .padding {
-  padding-left: 15px !important;
-  padding-right: 15px !important;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
 }
 
 .border-bottom {
