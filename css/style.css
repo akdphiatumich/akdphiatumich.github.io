@@ -378,7 +378,7 @@ figure {
 }
 
 #fh5co-logo a {
-  color: purple;
+    color: #F1D3EC;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
@@ -607,7 +607,7 @@ figure {
 }
 
 #fh5co-countdown {
-  background: purple;
+    background: #EADAE9;
 }
 
 .couple-wrap {
@@ -716,7 +716,7 @@ figure {
 #fh5co-started .btn-block {
   height: 54px;
   border: none !important;
-  background: purple;
+  background: #570075;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -882,7 +882,7 @@ figure {
 }
 
 #footer {
-  background: purple;
+    background: #5A7DA2;
   padding: 60px 0 40px;
 }
 
