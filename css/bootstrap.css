@@ -1426,6 +1426,13 @@ img {
   height: auto;
 }
 
+.img-responsive2 {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 200px;
+}
+
 .img-rounded {
   border-radius: 6px;
 }
@@ -6759,6 +6766,9 @@ button.close {
   -webkit-appearance: none;
 }
 
+.minor {
+    padding-top: 1px;
+}
 .modal-open {
   overflow: hidden;
 }
