@@ -1427,11 +1427,11 @@ img {
 }
 
 .img-responsive2 {
-    display: block;
+    display: inline-block;
     max-width: 100%;
     height: auto;
     border-radius: 200px;
-}
+}s
 
 .img-rounded {
   border-radius: 6px;
@@ -2732,7 +2732,7 @@ th {
 .table > tbody > tr > td,
 .table > tfoot > tr > th,
 .table > tfoot > tr > td {
-  padding: 8px;
+  padding: 0px;
   line-height: 1.42857;
   vertical-align: top;
   border-top: 1px solid #ddd;

@@ -1215,14 +1215,18 @@ figure {
 }
 
 .table {
-  border-spacing:10px; /* need some space ?*/
+  border-spacing:5vw 2vw; /* need some space ?*/
   display:table;
   table-layout:fixed;
-  width:100%;
+  width:80%;
+  margin-left:auto; 
+  margin-right:auto;
   }
+
 .table div {
   display:table-cell;
   }
+
 
 .padding {
   padding-left: 5px !important;
