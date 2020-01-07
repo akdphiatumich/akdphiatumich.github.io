@@ -1261,3 +1261,50 @@ figure {
   z-index: 9999;
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
+
+.dropdown {
+  position: relative;
+  float: left;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+table.roster {
+    background-color:white;
+    width: 100%;
+    text-align:center;
+    border-collapse:collapse;
+    border: 1px solid black;
+}
+
+table.roster tr {
+    padding: 100px;
+}
+
+table.roster tr:nth-child(even) {
+    background-color:#D0C9EA;
+}
+
+
+
